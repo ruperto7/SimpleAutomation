@@ -1,9 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to ruperto7 GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/ruperto7/SimpleAutomation/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This is a demo of a water pump that turns ON and OFF to keep the water level from rising.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+(text below is generic, sorry.)
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
